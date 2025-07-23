@@ -16,6 +16,7 @@
   - Todo List  
   - Login/Signup with Firebase → Redirect to Dashboard  
   - Firestore Posts (User-Specific Content)
+  - And many more!
 
 ---
 

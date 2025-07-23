@@ -45,9 +45,3 @@ You can also explore the [SMIT Batch 12 GitHub Repo](https://github.com/Ashrib/S
 
 - **Email**: hasnainwakeel0317@gmail.com  
 - **GitHub**: [github.com/HasnainWakeel](https://github.com/HasnainWakeel)
-
----
-
-### 📈 GitHub Stats
-
-![Hasnain’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnainWakeel&show_icons=true&theme=radical)

@@ -43,7 +43,7 @@ You can also explore the [SMIT Batch 12 GitHub Repo](https://github.com/Ashrib/S
 
 ### 📫 Contact Me
 
-- **Email**: hasnainwakeel@gmail.com  
+- **Email**: hasnainwakeel0317@gmail.com  
 - **GitHub**: [github.com/HasnainWakeel](https://github.com/HasnainWakeel)
 
 ---

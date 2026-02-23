@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0f172a&height=200&section=header&text=Hasnain%20Wakeel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Micro-Agency%20Builder%20%7C%20Hafiz&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0f172a&height=200&section=header&text=Hasnain%20Wakeel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Micro-Agency%20Co-Founder%20%7C%20Pakistan&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -15,11 +15,11 @@
 
 ## 👋 About Me
 
-I'm a **frontend-focused web developer** based in Pakistan, currently in the early-to-intermediate stage of my development journey — and building fast.
+I'm a **frontend-focused web developer** based in Pakistan, building real products for real clients.
 
-My path is anything but conventional. I'm simultaneously completing **Dars-e-Nizami** (classical Islamic scholarship), building real client projects, and co-running a **micro web development agency** with my partner. I don't just build tutorial projects — I build for real businesses with real constraints.
+I don't just build tutorial projects. I work on **business-oriented web solutions** — POS systems, dashboards, landing pages, and client-facing applications with actual delivery constraints. Alongside development, I co-run a small **web development agency** with my partner, which has given me early exposure to client communication, requirement gathering, and practical project delivery — things most junior developers don't encounter until much later.
 
-What drives me isn't just code. It's the intersection of **discipline, purpose, and craft.**
+I'm someone who carries a lot — and delivers anyway.
 
 ---
 
@@ -56,27 +56,27 @@ What drives me isn't just code. It's the intersection of **discipline, purpose, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Advanced JavaScript](https://img.shields.io/badge/Advanced_JS_Patterns-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> *Focused on deepening JavaScript fundamentals, mastering TypeScript, and learning to architect larger, scalable applications — writing more logic independently rather than relying on shortcuts.*
+> *Focused on deepening JavaScript fundamentals, mastering TypeScript, and writing more logic independently — moving from assisted development toward confident, self-sufficient engineering.*
 
 ---
 
 ## 🚀 What I'm Building
 
-- 🏪 **Excel-based POS System** — Built for a local garments client, handling real inventory and sales workflows
-- 🌐 **Business Websites & Landing Pages** — Clean, conversion-focused sites for local clients
-- 📊 **Web Dashboards** — Role-based, data-driven interfaces for real use cases
-- 🏢 **Micro Web Agency** — Co-building a structured development agency focused on practical business solutions
+- 🏪 **POS System** — Excel-integrated point-of-sale tool built for a local garments client
+- 📊 **Role-Based Dashboards** — Dynamic, data-driven interfaces with real user roles
+- 🌐 **Business Websites** — Clean, conversion-focused sites for local and international clients
+- 🏢 **Micro Web Agency** — Co-building a structured service provider for practical business web solutions
 
 ---
 
-## 🎯 My Focus Right Now
+## 🎯 Current Focus
 
 ```
 ✅ Shipping more real-world client projects
-✅ Strengthening JavaScript & TypeScript core
-✅ Building a portfolio of practical business tools
-✅ Growing our agency into a reliable local & international service provider
-✅ Documenting the journey on YouTube & Instagram (@unfiltered.hasnain)
+✅ Strengthening JavaScript & TypeScript fundamentals  
+✅ Architecting larger, scalable frontend applications
+✅ Growing our agency into a reliable service provider
+✅ Documenting the journey — dev, agency life, and the grind (@unfiltered.hasnain)
 ```
 
 ---
@@ -92,15 +92,15 @@ What drives me isn't just code. It's the intersection of **discipline, purpose, 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Open To
 
-I'm open to **freelance projects**, **collaborations**, and **conversations** about frontend development, agency building, or just the grind of learning while juggling a lot.
-
-Whether you need a clean business website, a functional web app, or just want to talk shop — reach out.
+- Freelance frontend projects
+- Collaborations on business-focused web apps
+- Long-term client relationships through our agency
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-wakeel-07456b300/)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-wakeel-07456b300/)
 
 </div>
 
@@ -110,6 +110,6 @@ Whether you need a clean business website, a functional web app, or just want to
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0f172a&height=100&section=footer" width="100%" />
 
-*"Consistency under low motivation — that's the real boss fight."*
+*Building clean, functional, business-focused web applications — one client at a time.*
 
 </div>

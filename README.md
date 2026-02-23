@@ -1,29 +1,70 @@
-# 👋 Assalamu Alaikum, I'm Hasnain
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm Hasnain
+</h1>
 
-🚀 Frontend Developer focused on building practical web apps for small businesses.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Firebase+Builder;Building+Practical+Web+Apps" />
+</p>
 
-I specialize in creating responsive, user-friendly interfaces using React and modern JavaScript. Recently, I've been working on real-world solutions like POS systems, business websites, and Firebase-powered applications.
+---
 
-🎯 Currently focused on:
-- Strengthening JavaScript fundamentals  
-- Building real client projects  
-- Growing a small web development agency  
+## 🚀 About Me
 
-🧠 Background:
-- Strong foundation in HTML, CSS, JavaScript, React
-- Experience with Firebase (Auth + Firestore)
-- Comfortable deploying full frontend projects
+- 💻 Frontend Developer focused on **React & modern JavaScript**
+- 🧩 Building practical solutions like **POS systems & business websites**
+- 📚 Currently strengthening **JavaScript fundamentals & TypeScript**
+- 🌍 Based in Pakistan
+- 🎯 Goal: Grow a small web development agency and work with real clients
+- 💡 Passionate about clean UI, simple UX, and real-world problem solving
 
-💡 I enjoy turning real business problems into simple, clean web solutions.
+---
 
-### 🚀 Core
-JavaScript • React • HTML5 • CSS3 • Firebase
+## 🛠 Tech Stack
 
-### 🧰 Tools & Ecosystem
-Next.js • TailwindCSS • Bootstrap • Node.js • Express • MongoDB
+### 💡 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,vite" />
+</p>
 
-### ⚙️ Workflow
-Git • GitHub • Vite • Postman • ESLint • Prettier
+### ⚙ Backend / Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+</p>
 
+### 🧰 Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,eslint,wordpress" />
+</p>
 
-## 📌 Featured Projects
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnainWakeel&show_icons=true&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainWakeel&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Hasnain Wakeel">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/unfiltered.hasnain">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:hasnainwakeel0317@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HasnainWakeel&label=Profile+Views&color=0A66C2&style=flat" />
+</p>
